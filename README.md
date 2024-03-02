@@ -58,7 +58,4 @@ TensorFlow documentation on Transfer Learning
 Keras documentation on Applications
 Keras documentation on ResNet152V2
 
-# PNEUMONET-Pneumonia-Detection
-# PNEUMONET-Pneumonia-Detection
-# PNEUMONET-Pneumonia-Detection
-# Pneumonet
+
